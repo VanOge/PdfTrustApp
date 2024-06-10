@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color white
+drawable back
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pdf
+id main
+id pdfView
+id pdf_cardView
+id pdf_imageView
+id pdf_txtName
+id rv
+layout activity_main
+layout activity_pdf
+layout rv_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.PdfTrustApp
+style Theme.PdfTrustApp
+xml backup_rules
+xml data_extraction_rules
